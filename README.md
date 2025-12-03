@@ -7,4 +7,4 @@ The goal of the project is to train a CycleGan model such that it can transform 
 
 The data come in the form of images and can be found on the kaggle competition page: https://www.kaggle.com/competitions/gan-getting-started
 
-
+The jupyter notebook "PaintingGen" contains my solution. More information can be found within it.
